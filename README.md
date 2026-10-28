@@ -40,6 +40,18 @@ Glint runs on your Mac and has no server of its own. Session titles and states s
 
 German and English, following your Mac's language.
 
+## License & EULA
+
+Glint is proprietary software. © 2026 Maximilian Dahl. All rights reserved.
+Read the [EULA draft](EULA.md) and [license notice](LICENSE). The EULA remains
+a draft for legal review; publishing or opening it does not make it binding
+on existing users. Earlier valid licenses, including prior MIT grants, remain
+in effect. Glint Free may be used without payment, including for work; paid
+Glint Pro licensing is planned once sales begin.
+
+Future builds include an offline reader under **Settings → About → License &
+EULA…**. Existing downloads are unchanged by this documentation update.
+
 ---
 
 Glint is a personal project by Maximilian Dahl. It is not made by, endorsed by or affiliated with Anthropic, OpenAI or Google. Claude, Codex and Gemini are trademarks of their respective owners.

@@ -1,0 +1,34 @@
+Copyright © 2026 Maximilian Dahl.
+All rights reserved.
+
+Glint is proprietary software. This notice applies to future Glint versions
+distributed with it, subject to the exceptions below.
+
+Glint Free may be used without payment, including for commercial work.
+Once Glint Pro sales begin, use of paid Pro features requires a valid Pro
+license. Existing statutory and contractual entitlements remain unaffected;
+no fee is imposed retroactively. This notice does not launch sales or introduce payment, activation,
+or license-verification functionality.
+
+See EULA.md for the end-user license terms and their legal-review status.
+The EULA must be legally reviewed and validly incorporated before distribution
+under those terms.
+
+Except as expressly permitted by the EULA, prior written permission from
+Maximilian Dahl, an applicable third-party license, or mandatory law, no rights
+are granted to copy, modify, redistribute, sublicense, or sell Glint's source
+code or assets, or to redistribute, sublicense, or sell the application.
+Copies necessary for permitted use and backups remain allowed. Ordinary use
+of Glint in commercial work is permitted; resale of Glint is a separate matter.
+
+Earlier MIT grants remain in effect
+----------------------------------
+Versions and portions previously made available under the MIT License retain
+the rights already granted under that license. This notice does not revoke or
+restrict those rights, including rights to use, modify, and redistribute those
+versions or MIT-licensed portions reused in later versions, subject to the MIT
+License. The original MIT notice is preserved in the appendix to EULA.md.
+
+Third-party components retain their own licenses and copyright notices.
+In particular, Plus Jakarta Sans remains under the SIL Open Font License 1.1
+in Resources/Fonts/PlusJakartaSans-OFL.txt.
